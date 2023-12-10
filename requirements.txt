@@ -1,0 +1,6 @@
+pytest
+pytest-selenium
+selenium
+urllib3
+time
+ast
